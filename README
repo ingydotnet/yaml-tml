@@ -1,0 +1,4 @@
+This is the set of common TestML documents that all ports of PyYaml should
+pass.
+
+These documents were adapted from the tests in the PyYaml distribution.
